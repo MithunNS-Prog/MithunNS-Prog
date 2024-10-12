@@ -1,4 +1,4 @@
 - 👋 Hi, I’m --------------------------->Mithun N S
-- 👀 I’m interested in ----------------->Learning Microcontrollers and Real-Time Programming
+- 👀 I’m interested in ----------------->Microcontrollers and Real-Time Programming
 - 🌱 I’m currently learning------------->Embedded Systems 
 - 📫 How to reach me ------------------->mithunnsm1999@gmail.com
